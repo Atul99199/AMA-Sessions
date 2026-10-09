@@ -1,4 +1,4 @@
-```md
+
 ## 1. How can you check for errors without running the server?
 We can use `python manage.py check` to check for common errors in a Django project.
 It checks configurations and identifies potential problems without starting the server.
@@ -42,4 +42,3 @@ Django uses the ASGI or WSGI application specified in the server configuration.
 ## 11. What is `JsonResponse`?
 `JsonResponse` is a Django class used to send data from the server to the client in JSON format.
 It is commonly used in APIs to return data that JavaScript can process.
-```
